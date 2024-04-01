@@ -9,4 +9,10 @@ body {
 }
 
 .card {
+  width: 700px;
+  background: #ccc;
+  margin: 20px;
+  padding: 20px;
+  font-family: sans-serif;
+  line-height: 28px;
 }
